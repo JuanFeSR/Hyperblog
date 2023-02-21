@@ -1,7 +1,12 @@
 body {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: #333;
     text-align: left;
+=======
+    color: #333;
+    text-align: center;
+>>>>>>> footer
     font-family: "Arial";
 =======
     background: #1e1f24;
@@ -48,4 +53,11 @@ body {
 #post {
     background: white;
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
